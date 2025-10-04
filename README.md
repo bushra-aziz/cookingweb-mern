@@ -48,25 +48,6 @@ This project is built using the **MERN Stack** (MongoDB, Express.js, React.js, N
 | **API Testing** | Postman (for backend routes) |
 
 ---
-```
-Folder Structure
-HomeCook/
-│
-├── client/ # React frontend
-│ ├── src/
-│ │ ├── components/ # Reusable UI components
-│ │ ├── pages/ # Home, Menu, Checkout, etc.
-│ │ ├── App.js
-│ │ └── index.js
-│ └── package.json
-│
-├── server/ # Express backend
-│ ├── models/ # Mongoose schemas (Food, Order)
-│ ├── routes/ # API endpoints
-│ ├── controllers/ # Business logic for routes
-│ ├── server.js # Main backend file
-│ └── package.json
-```
 
 
 

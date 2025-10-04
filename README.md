@@ -49,7 +49,7 @@ This project is built using the **MERN Stack** (MongoDB, Express.js, React.js, N
 
 ---
 ```
-#  Folder Structure
+Folder Structure
 HomeCook/
 │
 ├── client/ # React frontend
@@ -68,5 +68,5 @@ HomeCook/
 │ └── package.json
 ```
 
-## 📂 Folder Structure
+
 
